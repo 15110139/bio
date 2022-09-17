@@ -2,10 +2,9 @@ import Image from "next/image";
 import icon from "../public/user-icon.png";
 import fbIcon from "../public/icons-facebook.svg";
 import instIcon from "../public/icons-instagram.svg";
-import ytIcon from "../public/icons-youtube.svg";
-import pinIcon from "../public/icons-pinterest.svg";
 import tiIcon from "../public/icons-tiktok.svg";
 import starIcon from "../public/icon-star.svg";
+import "@fontsource/montserrat";
 
 const customName = "especiallyforyoulashes";
 const description = "Especially for You Lashes";
